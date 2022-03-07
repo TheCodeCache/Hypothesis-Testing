@@ -12,3 +12,6 @@ will update with the exhaustie list later - TODO
 
 
 **Work In Progress. . .**
+
+**Reference(s):**  
+1. Jason Gibson
